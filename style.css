@@ -6,6 +6,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body {
+    background-color: #474747
+}
+
 .resume-contents {
     min-height: 100vh;
     width: 80%;
@@ -17,13 +21,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #999999;
+    background-color: #000000da;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #424a50;
+    background-color: #6200ff;
     border-radius: 0px 60px 0px 0px;
 }
 
