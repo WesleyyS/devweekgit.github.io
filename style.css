@@ -95,6 +95,7 @@ body {
 }
 
 .right-title {
+    font-weight: bold;
     color: #eeeeee;
 }
 
@@ -111,14 +112,14 @@ body {
 .awards-contents {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    padding-bottom: 2rem;
+    padding: 2rem;
     color: #F1F8FD;
 }
 
 .exp-company-name,
 .education-school-name,
 .awards-company-name {
-    font-size: 25px;
+    font-size: 23px;
     font-weight: bold;
 }
 
@@ -131,7 +132,7 @@ body {
 .exp-position,
 .education-subject,
 .awards-name {
-    font-size: 25px;
+    font-size: 23px;
 }
 
 .exp-desc,
